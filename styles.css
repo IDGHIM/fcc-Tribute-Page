@@ -1,32 +1,50 @@
 body {
     font-family: Garamond, serif;
-    background-color: rgb(156, 30, 82);
-    color: black;
+    background: linear-gradient(#9C1E52, #9e4c6e, #c9538a);
+    color: rgb(0, 0, 0);
     margin: 0;
-    text-align: center;
   }
 
-header {
+header, #sous-titre{
     color: rgb(238, 11, 106);
-    background-color: rgb(124, 12, 58);
-    text-shadow: 5px 5px 5px rgb(245, 177, 188);
+    background-color: #9C1E52;
+    text-shadow: 5px 5px 5px rgb(245, 203, 210); /*Ombre texte*/
     width: 100%;
     text-align: center;
+    font-size: 25px;
+    margin: auto;
+    justify-content: space-between;
   }
-  
+
+#sous-titre{
+  font-size:30px;
+}
+
+/*Encandrement en-tête*/
+fieldset{  
+  border: 5px solid #cc0289;
+  border-radius: 10px;
+}
+
 h1, footer {
     font-size: 5rem;
-    font-weight: 800;
     text-align: center;
     width: 90%;
     margin: auto;
   }
-  
-#sous-titre,
-  .date {
-    font-size: 25px;
+
+/*Logo Sheffield*/
+#logo {
+  float: left;
+  border-radius: 10px;
   }
-  
+
+/*Affiche 2025*/
+#affiche {
+  float: right;
+  border-radius: 10px;
+  }
+
 #image {
     display: block;
     margin: auto;
@@ -34,13 +52,14 @@ h1, footer {
     width: 80%;
     max-width: 100%;
     border-radius: 10px;
-    image-rendering: smooth;
   }
-  
+
+/* Legend pict */
 figcaption {
     font-family: Garamond, serif;
     font-size: 18px;
     text-align: center;
+    text-shadow: 1px 1px 1px whitesmoke;
   }
   
 #img-div {
@@ -48,47 +67,41 @@ figcaption {
     margin: 0 20px 25px 20px;
     padding: 25px 0 25px 0;
   }
-  
-.date{
+
+.desc{
     font-family: Garamond, serif;
-    text-align: center;
-    margin: auto;
     text-decoration: underline;
-  }
-  
-#tribute-info {
-    margin: auto;
-    width: 800px;
-    display: block;
-    font-size: 20px;
-    text-align: center;
-    color: rgb(0, 0, 0);
-    flex-wrap: wrap;
+    font-size: 25px;
   }
 
-  
-li {
-    display: flex;
-    justify-content: space-between;
-    font-family: Arial;
-    text-align: center;
-    font-size: 18px;
-    padding: 20px 10px;
+/*Texte histoire */
+#tribute-info {
+    font-size: 20px;
+    color:rgb(202, 125, 157);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0); /*Ombre texte*/
   }
-  
-p {
-    max-width: 300px;
-    margin: auto;
-    line-height: 25px;
-    text-align: center;
+
+/*Lien Athlète */
+#tribute-link{
+  font-size:35px;
+  color: rgb(219, 33, 111);
+  text-shadow: 1px 1px 1px rgb(0, 0, 0); /*Ombre texte*/
+  text-align: center;
+  display: block;
+}
+
+li {
+    justify-content: space-between;
+    font-size: 18px;
   }
 
 a {
     text-decoration: none;
-    color: antiquewhite;
+    color: rgb(219, 33, 111);
   }
-  
-a:hover {
-    color: rgb(185, 79, 123);
+
+/*Subrillance Passage Souris*/
+a:hover {                 
+    color: rgb(226, 134, 172); 
   }
   
