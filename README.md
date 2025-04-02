@@ -1,10 +1,10 @@
-# FCC-Survey-Form
+# :notebook: FCC-Survey-Form
 
-## Objectifs
+## :dart: Objectifs
 Build a Tribute Page.
  *Similar to [Tribute Page](https://tribute-page.freecodecamp.rocks/) (do not copy this demo project).*
 
-## Instructions
+## :pushpin: Instructions
    - [ ] Your tribute page should have a main element with a corresponding id of main, which contains all other elements
    - [ ] You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
    - [ ] You should see either a figure or a div element with an id of img-div
@@ -18,6 +18,8 @@ Build a Tribute Page.
 **Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!**
 >[!IMPORTANT]
 >Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+
+## :heavy_check_mark: Test for verify project
 
 ## Context of project 
 This is one of the required projects to earn certification
