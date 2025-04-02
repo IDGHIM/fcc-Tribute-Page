@@ -2,7 +2,7 @@
 Website :
 
 ## :dart: Objectifs
-For this project, you will build a tribute page for a subject of your choosing, fictional or real.
+For this project, you will build a tribute page for a subject of your choosing, fictional or real.                
  *Similar to [Tribute Page](https://tribute-page.freecodecamp.rocks/) (do not copy this demo project).*
 
 ## :pushpin: Instructions
