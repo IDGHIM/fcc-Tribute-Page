@@ -41,5 +41,5 @@ For this project, you will build a tribute page for a subject of your choosing, 
 18. Your #image should have a height of auto.
 19. Your #image should be centered within its parent.
 
-## Context of project 
-This is one of the required projects to earn certification
+## :black_medium_small_square: Context of project 
+This is one of the required projects to earn certification Responsive Web Design 
