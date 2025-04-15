@@ -1,7 +1,7 @@
 # :notebook: FCC-Survey-Form
 Website : https://idghim.github.io/fcc-Tribute-Page/
 
-*On the site some instructions have been changed to make a result that I personnally liked*
+On this site, I made some modifications to the instructions in order to achieve a result that I personally liked and that fits my style.
 ## :dart: Objectifs
 For this project, you will build a tribute page for a subject of your choosing, fictional or real.                
  *Similar to [Tribute Page](https://tribute-page.freecodecamp.rocks/) (do not copy this demo project).*
