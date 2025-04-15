@@ -1,4 +1,4 @@
-# 📝 FCC-Tribute-Page
+# 📝 FCC-Tribute-Page ( English version )
 
 🔗 **Live Website**: [https://idghim.github.io/fcc-Tribute-Page/](https://idghim.github.io/fcc-Tribute-Page/)
 
