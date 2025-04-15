@@ -71,7 +71,7 @@ It helped me practice:
 ## 📫 Contact
 
 - GitHub: [@idghim](https://github.com/idghim)
-- freeCodeCamp: [My Profile](https://www.freecodecamp.org/idghim)
+- freeCodeCamp: [My Profile](https://www.freecodecamp.org/IchemD)
 
 ---
 
