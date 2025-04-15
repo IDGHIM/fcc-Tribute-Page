@@ -67,10 +67,10 @@ Il m’a permis de pratiquer :
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact
 
-- GitHub : [@idghim](https://github.com/idghim)
-- freeCodeCamp : [Mon profil](https://www.freecodecamp.org/idghim)
+- GitHub: [@idghim](https://github.com/idghim)  
+- freeCodeCamp: [My Profile](https://www.freecodecamp.org/IchemD)
 
 ---
 
